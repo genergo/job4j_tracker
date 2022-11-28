@@ -17,7 +17,7 @@ public class Jukebox {
     }
 
       public static void main(String[] args) {
-      Jukebox.music(2);
+      Jukebox.music(1);
       Jukebox.main1(0);
     }
 }
