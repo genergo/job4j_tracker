@@ -18,7 +18,7 @@ public class Matches {
                 matches = Integer.parseInt(input.nextLine());
             }
             count = count - matches;
-                    System.out.println(count + " Осталось спичек ");
+               System.out.println(count + " Осталось спичек ");
                 } if (count < 0) {
                     System.out.println(" Игра окончена ");
                 }
